@@ -1,2 +1,2 @@
-# Bouncing-Sptite
-Coded with Visual Studio Code
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
